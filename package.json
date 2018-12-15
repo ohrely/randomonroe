@@ -1,5 +1,5 @@
 {
-  "name": "randomondroe",
+  "name": "randomonroe",
   "version": "0.1.0",
   "description": "A JupyterLab extension.",
   "keywords": [
@@ -7,9 +7,9 @@
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/my_name/myextension",
+  "homepage": "https://github.com/ohrely/randomonroe",
   "bugs": {
-    "url": "https://github.com/my_name/myextension/issues"
+    "url": "https://github.com/ohrely/randomonroe/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Ely",
@@ -21,7 +21,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/my_name/myextension.git"
+    "url": "https://github.com/ohrely/randomonroe.git"
   },
   "scripts": {
     "build": "tsc",

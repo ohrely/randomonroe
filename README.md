@@ -10,7 +10,7 @@ A JupyterLab extension.
 ## Installation
 
 ```bash
-jupyter labextension install randomondroe
+jupyter labextension install randomonroe
 ```
 
 ## Development

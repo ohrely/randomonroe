@@ -9,10 +9,10 @@ import '../style/index.css';
  * Initialization data for the randomondroe extension.
  */
 const extension: JupyterLabPlugin<void> = {
-  id: 'randomondroe',
+  id: 'randomonroe',
   autoStart: true,
   activate: (app: JupyterLab) => {
-    console.log('JupyterLab extension randomondroe is activated!');
+    console.log('JupyterLab extension randomonroe is activated!');
   }
 };
 
