@@ -1,4 +1,4 @@
-# randomondroe
+# randomonroe
 
 A JupyterLab extension.
 
